@@ -8,8 +8,9 @@ Definir o Mês 0 como o momento em que o usuário cria a conta e é registrado n
 Como preencher os meses que esse cliente não estava nem presente no sistema?
 (fillna("") talvez...)
 
-Talvez ao invés de Cliente e GE, daria para puxar o grupo econômico e separar PF de PJ e colocar como colunas separadas uma da outra. Tipo
 
+Sugestões: 
+Talvez ao invés de Cliente e GE, daria para puxar o grupo econômico e separar PF de PJ e colocar como colunas separadas uma da outra. Tipo
 PF | PJ
 ---------------
 F1 | J1
@@ -19,4 +20,5 @@ F2 |
 OBS: valores nulos em uma ou outra coluna significa que eles não possuem outra conta no GE. óbv q só daria pra fazer isso quando arrumassem os GE
 Questões: como tratar a PF e a PJ? O Salesforce separa isso quando puxa pro BI? 
 
+Dúvidas: 
 A Partir de qual mês considerar o mês 0? Fevereiro de 2025 é o início? Puxar tudo?
