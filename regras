@@ -7,7 +7,7 @@ Puxar os dados dos faturamento dos clientes do salesforce ou SAP hana? (SAP HANA
 Definir o Mês 0 como o momento em que o usuário cria a conta e é registrado no banco de dados (Vira meio q uma tabela de ativação e retenção na própria base)
 Como preencher os meses que esse cliente não estava nem presente no sistema?
 (fillna("") talvez...)
-
+- processo de sempre com python (ETL)
 
 Sugestões: 
 Talvez ao invés de Cliente e GE, daria para puxar o grupo econômico e separar PF de PJ e colocar como colunas separadas uma da outra. Tipo
