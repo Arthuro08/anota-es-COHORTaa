@@ -5,7 +5,8 @@
 | **C2** | 23 | 0 |
 | **C3** |  | 23 |
 
-Este documento centraliza as regras de negócio, origens de dados e definições pendentes para a construção da tabela de Cohort de Faturamento da companhia.
+Este documento centraliza as regras de negócio, origens de dados e definições pendentes para a construção da tabela de Cohort de Faturamento da companhia. 
+ANÁLISE INFINITAMENTE ESCALÁVEL
 
 ## 1. Regras de Negócio e Fonte de Dados
 
