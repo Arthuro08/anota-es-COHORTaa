@@ -14,7 +14,7 @@ Este documento centraliza as regras de negócio, origens de dados e definições
 
 ---
 
-## 2. Sugestão de Arquitetura: Separação por Grupo Econômico (GE)
+## 2. Sugestão de Arquitetura para depois: Separação por Grupo Econômico (GE)
 
 Para enriquecer a análise, propõe-se agrupar os clientes por Grupo Econômico (GE), separando as contas de Pessoa Física (PF) e Pessoa Jurídica (PJ) em colunas paralelas para visualização do comportamento unificado.
 
@@ -37,7 +37,7 @@ Para enriquecer a análise, propõe-se agrupar os clientes por Grupo Econômico 
 
 ---
 
-## 4. Dúvidas em Aberto (Para Definição)
+## 4. Dúvidas em Aberto depois pq se trata de GE(Para Definição)
 
 Antes de rodar a extração final, precisamos definir os seguintes pontos com a área de negócios/dados:
 
