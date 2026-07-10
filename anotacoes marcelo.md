@@ -1,5 +1,5 @@
-Cohort
-terça-feira, 7 de julho de 2026
+## Cohort
+#### terça-feira, 7 de julho de 2026
 11:23
 Perguntar: por produto, por vendedor?
 Sim
