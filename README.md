@@ -1,4 +1,9 @@
 # 📊 Projeto: Cohort de Faturamento (Ativação e Retenção)
+| Cliente | M1 | M2 |
+| :--- | :--- | :--- |
+| **C1** | 340 | 23 |
+| **C2** | 23 | 0 |
+| **C3** | *Nulo* | 23 |
 
 Este documento centraliza as regras de negócio, origens de dados e definições pendentes para a construção da tabela de Cohort de Faturamento da companhia.
 
